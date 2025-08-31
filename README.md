@@ -1,7 +1,7 @@
 # 🗃️ Talk2YourData 
 
 **Talk2YourData** is an **intelligent document assistant** built with [Streamlit](https://streamlit.io/).  
-It allows users to upload their **Own documents (PDF)** and interact with them through a chat interface.  
+It allows users to upload your **Own documents (PDF)** and interact with them through a chat interface.  
 
 The application uses a **Retrieval-Augmented Generation (RAG)** pipeline to retrieve relevant information from uploaded documents and generate accurate, context-aware answers.
 
