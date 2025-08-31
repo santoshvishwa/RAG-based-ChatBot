@@ -63,17 +63,14 @@ Application is up and running at: [Talk2YourData](https://talk2yourdata.streamli
 
 
 ### Landing Page:
-<img width="1512" height="947" alt="image" src="<img width="2852" height="1524" alt="image" src="https://github.com/user-attachments/assets/6e985d03-de1d-4b42-8419-7c42df6d42e1" />
-" />
+<img width="1512" height="947" alt="image" src="<img width="2852" height="1524" alt="image" src="https://github.com/user-attachments/assets/6e985d03-de1d-4b42-8419-7c42df6d42e1"/>
 
 ### Upload Files:
-<img width="1512" height="946" alt="image" src="<img width="2864" height="1534" alt="image" src="https://github.com/user-attachments/assets/4a71de5b-378d-49b4-863a-502c78ed1812" />
-" />
+<img width="1512" height="946" alt="image" src="<img width="2864" height="1534" alt="image" src="https://github.com/user-attachments/assets/4a71de5b-378d-49b4-863a-502c78ed1812"/>
 
 
 ### Assistant in Action:
-<img width="1512" height="939" alt="image" src="<img width="2862" height="1526" alt="image" src="https://github.com/user-attachments/assets/8a049b5a-990a-4b14-8817-b0f211a70188" />
-" />
+<img width="1512" height="939" alt="image" src="<img width="2862" height="1526" alt="image" src="https://github.com/user-attachments/assets/8a049b5a-990a-4b14-8817-b0f211a70188"/>
 
 
 
